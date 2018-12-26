@@ -1,4 +1,5 @@
-# GENERATION OF RANDOM NUMBERS
+GENERATION OF RANDOM NUMBERS
+============================
 
 one instance of the class is able to generate integer and real random numbers;  
 generates numbers uniformly distributed in the range;  
@@ -6,7 +7,8 @@ when generating, you can change the range of numbers generated.
   
   
 Example of use.
-```
+---------------
+```c++
 #include <iostream>
 #include <thread>
 #include "random_t.h"
